@@ -1,2 +1,1 @@
-# witrynyaplikacjeNowe
-Kolejny projekt szkolny
+# strona
